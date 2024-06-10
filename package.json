@@ -1,0 +1,26 @@
+{
+  "name": "@sydjalees/students-management-system-typescript",
+  "version": "1.4.0",
+  "description": "This is Cli Based Student Management System Project with Typescript.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "students-management-system-typescript": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SYED JALEES AKBAR",
+  "license": "MIT",
+  "dependencies": {
+    "@sydjalees/students-management-system-typescript": "^1.4.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
